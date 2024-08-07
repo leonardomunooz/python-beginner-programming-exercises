@@ -1,11 +1,8 @@
 import random
 
-
 def get_randomInt():
 	# ✅↓ Write your code here ↓✅
-	variable = random.randrange(1,13)
-	print(variable)
-	return variable
+	return None
 
 # ❌ ↓ DON'T CHANGE THE CODE BELOW ↓ ❌
 print(get_randomInt())
